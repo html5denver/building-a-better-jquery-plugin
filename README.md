@@ -19,4 +19,4 @@ Features
     $('#example').outliner('set_color', 'blue'); // execute method after initialization
 
 get ahold of me on Twitter [@jhummel](http://www.twitter.com/jhummel)
-or, via email - jason[at]wearechalk.com
+or, via email - jason[at]wearechalk.com, Star the project if you find it useful!
